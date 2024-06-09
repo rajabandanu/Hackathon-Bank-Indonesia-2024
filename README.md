@@ -5,7 +5,7 @@
 ![Project Logo](link_to_logo.png)
 
 ## About
-This repository contains the project "Next-Gen Economic Forecasting", developed by Team Cabai_Murah during [Hackathon Name] hackathon. The project aims to integrate AI for Indonesia's stability and sustainable growth by providing innovative solutions in economic forecasting.
+This repository contains the project "Next-Gen Economic Forecasting", developed by Team Cabai_Murah. The project aims to integrate AI for Indonesia's stability and sustainable growth by providing innovative solutions in economic forecasting.
 
 ## Team Members
 - Ahmad Whafa Azka Alazkiyai
