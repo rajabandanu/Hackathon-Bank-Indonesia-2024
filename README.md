@@ -25,10 +25,3 @@ Our solution tackles the critical challenge of fragmented economic data by provi
 Utilize Advanced AI and ML Techniques: Develop and deploy comprehensive tools that leverage machine learning to monitor and predict financial stability and economic sustainability. This includes:
 - **Predictive Model:** Implement advanced predictive analytics to effectively forecast economic trends by analyzing a broad spectrum of economic indicators such as M2 money supply, bank balance sheets, commodity prices, and other pertinent data.
 - **Clustering Model:** Employ machine learning to categorize Indonesian companies based on ESG scores, financial health, and industry characteristics. This model aims to identify at least five distinct clusters to facilitate targeted economic and policy interventions that align with the dual mandate of Bank Indonesia, enhancing both monetary stability and economic growth.
-
-## Usage
-[Instructions on how to use or contribute to the project]
-
-## License
-[Specify the license under which the project is distributed, if any]
-
