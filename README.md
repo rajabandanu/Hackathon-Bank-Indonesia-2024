@@ -2,7 +2,7 @@
 
 ## Integrating AI for Indonesia's Stability & Sustainable Growth
 
-![Project Logo](link_to_logo.png)
+![Project Logo](cabai_team.jpg)
 
 ## About
 This repository contains the project "Next-Gen Economic Forecasting", developed by Team Cabai_Murah. The project aims to integrate AI for Indonesia's stability and sustainable growth by providing innovative solutions in economic forecasting.
