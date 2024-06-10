@@ -3,6 +3,7 @@
 ## Integrating AI for Indonesia's Stability & Sustainable Growth
 
 ![Project Logo](https://github.com/rajabandanu/Hackathon-Bank-Indonesia-2024/blob/main/Cabai%20Team.jpg)
+<img src="https://path_to_your_image.com/logo.png](https://github.com/rajabandanu/Hackathon-Bank-Indonesia-2024/blob/main/Cabai%20Team.jpg" alt="Project Logo" width="300" height="300">
 
 ## About
 This repository contains the project "Next-Gen Economic Forecasting", developed by Team Cabai_Murah. The project aims to integrate AI for Indonesia's stability and sustainable growth by providing innovative solutions in economic forecasting.
